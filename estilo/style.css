@@ -14,3 +14,14 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
 }
+
+header h1 {
+    color: blue;
+    text-align: center;
+    font-size: 32px;
+}
+
+.lado {
+    width: 20%;
+    float: right;
+}
